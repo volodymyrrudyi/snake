@@ -1,0 +1,6 @@
+[submodule "snakec"]
+	path = snakec
+	url = git@github.com:volodymyrrudyj/snakec.git
+[submodule "snaked"]
+	path = snaked
+	url = git@github.com:volodymyrrudyj/snaked.git
