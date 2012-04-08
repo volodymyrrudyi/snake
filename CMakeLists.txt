@@ -3,5 +3,7 @@ project (snake)
 
 set(CMAKE_C_FLAGS "-Wall -g -pg -Werror")
 
+add_subdirectory (snakecore)
 add_subdirectory (snaked) 
 add_subdirectory (snakec)
+

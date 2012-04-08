@@ -4,3 +4,6 @@
 [submodule "snaked"]
 	path = snaked
 	url = git@github.com:volodymyrrudyj/snaked.git
+[submodule "snakecore"]
+	path = snakecore
+	url = git@github.com:volodymyrrudyj/snakecore.git
